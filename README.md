@@ -14,8 +14,8 @@ items needed :- Arduino UNO
                                                                  SCL to A5,
                                                                  SDA to A4,
                                                                  INT to D4.
-L298N to arduino -          IN1 to D6
-                            IN2 to D9
-                            IN3 to D10
-                            IN4 to D11
+L298N to arduino -          IN1 to D6,
+                            IN2 to D9,
+                            IN3 to D10,
+                            IN4 to D11.
                          
